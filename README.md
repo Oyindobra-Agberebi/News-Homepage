@@ -9,7 +9,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Screenshot
 ![Alt text](assets/project%20image/news-homepage-desktop.png)
 
-![Alt text](assets/project%20image/news-homepage-mobile.png)
+![Alt text](assets/project%20image/new-homepage-mobile.png)
 
 ![Alt text](assets/project%20image/news-homepage-mobileNav.png)
 
