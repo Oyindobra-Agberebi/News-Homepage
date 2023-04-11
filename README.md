@@ -11,6 +11,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ![Alt text](assets/project%20image/news-homepage-mobile.png)
 
+![Alt text](assets/project%20image/news-homepage-mobileNav.png)
+
 ### Links
 
 - Solution URL: [https://github.com/Oyindobra-Agberebi/News-Homepage]
