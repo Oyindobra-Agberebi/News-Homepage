@@ -249,11 +249,9 @@ footer a:hover {
   }
   #btn-remove {
     display: inline-block;
-
-    width: 50px;
-    padding: .3em;
-    margin-top: 0.2em;
-    margin-left: 19em;
+    font-size: 50px;
+    text-align: right;
+    margin: 0.3em;
   }
 
   ul a {
