@@ -7,9 +7,9 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ## Overview
 
 ### Screenshot
-![Alt text](assets/images/project%20image/news-homepage-desktop.png)
+![Alt text](assets/project%20image/news-homepage-desktop.png)
 
-![Alt text](assets/images/project%20image/news-homepage-mobile.png)
+![Alt text](assets/project%20image/news-homepage-mobile.png)
 
 ### Links
 
