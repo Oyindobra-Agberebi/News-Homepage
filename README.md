@@ -6,7 +6,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ## Overview
 
-
 ### Screenshot
 ![Alt text](assets/images/project%20image/news-homepage-desktop.png)
 
@@ -14,10 +13,9 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Oyindobra-Agberebi/News-Homepage]
+- Live Site URL: [https://news-hompage-aoe.netlify.app/]
 
-## My process
 
 ### Built with
 
