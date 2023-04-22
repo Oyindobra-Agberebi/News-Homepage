@@ -8,13 +8,13 @@ const mainBody = document.querySelector('main');
 
 
 mobileBtn.addEventListener('click', function () {
-    ul.classList.remove('btn');
+    ul.style.right = '0'
     mainBody.setAttribute('class', 'nav-open')
 })
 
 
 mobileExit.addEventListener('click', function(){
-    ul.classList.add('btn');
+    ul.style.right = '-600px'
     mainBody.classList.remove('nav-open');
 
  })
